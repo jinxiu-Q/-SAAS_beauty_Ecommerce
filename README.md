@@ -1,10 +1,15 @@
 # -SAAS_beauty_Ecommerce <br>
+美业SaaS系统 <br>
 this is a beauty/Ecommerce SaaS system <br>
-美业SaaS系统，包含-门店系统/预约系统/scrm/线上营销/抖音接入/美团接入等 <br>
+ <br>
+包含-门店系统/预约系统/scrm/线上营销/抖音接入/美团接入等 <br>
 include store management module, reservation module, SCRM module, online market module and so on...<br>
+ <br>
 可看演示<br>
+ <br>
 web端及APP管理端演示请联系：<br>
 WeChat：yuzian <br>
+plz contact wechat: yuzian if you need it  <br>
 
 ![IMG_8371](https://github.com/user-attachments/assets/51b61caf-0c4a-4d37-81d0-17b6c03db719)
 ![IMG_8375](https://github.com/user-attachments/assets/45ab3a54-5b18-4c63-8fc0-945ef90baa4e)
