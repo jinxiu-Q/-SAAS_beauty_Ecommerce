@@ -5,6 +5,8 @@ this is a beauty/Ecommerce SaaS system <br>
 包含-门店系统/预约系统/scrm/线上营销/抖音接入/美团接入等 <br>
 include store management module, reservation module, SCRM module, online market module and so on...<br>
  <br>
+ <br>
+移动端支持多个平台部署，包含Android、iOS、小程序、H5等
 可看演示<br>
  <br>
 web端及APP管理端演示请联系：<br>
